@@ -1,1 +1,2 @@
 Hi, wir machen Git
+Hi, wir haben die Datei im git geändert
