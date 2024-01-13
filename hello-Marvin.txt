@@ -1,2 +1,2 @@
-Hi, wir machen Git
+Hi, wir machen Git, aber Marvin bekommt nichts mit, hehe
 Hi, wir haben die Datei im git geändert
