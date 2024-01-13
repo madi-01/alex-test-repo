@@ -1,3 +1,2 @@
-Hi, wir machen Git, ich weiß bescheid wie es geht, oder auch nicht.
+Hi, wir machen Git
 Hi, wir haben die Datei im git geändert
-Jawohl, es macht uns spaß zu committen.
