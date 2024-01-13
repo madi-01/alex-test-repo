@@ -1,2 +1,0 @@
-Hi, wir machen Git, noch ein Versuch der Manipulation
-Hi, wir haben die Datei im git geändert
